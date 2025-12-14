@@ -12,8 +12,8 @@ https://github.com/user-attachments/assets/d0897aab-ff24-46f3-b248-2d829018a207
 
 ### Select next/previous/all occurrences
 
-- **Select next/previous** command finds the next/previous instance of the the selected text in the current file and adds a selection for it. Unlike a similar feature built into Xcode, it allows you to backtrack if you end up selecting too many occurrences. 
-- **Select all occurrences** selects all occurrences at once.
+- **Select next/previous** command finds the next/previous instance of the selected text in the current file and adds a selection for it. Unlike a similar feature built into Xcode, it allows you to backtrack if you end up selecting too many instances. 
+- **Select all occurrences** selects all instances at once.
 
 https://github.com/user-attachments/assets/02d3d19e-f9fb-41fb-b192-2ea70f3a1611
 

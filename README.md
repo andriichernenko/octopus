@@ -1,6 +1,6 @@
 # Octopus for Xcode
 
-Octopus for Xcode is a [source editor extension](https://developer.apple.com/documentation/xcodekit#overview) that adds a several convenience features.
+Octopus for Xcode is a [source editor extension](https://developer.apple.com/documentation/xcodekit#overview) that adds several convenience features.
 
 ## Features
 

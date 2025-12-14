@@ -36,13 +36,12 @@ with the benefits of **formatting via command line**:
 - Xcode 16+
 - Swift code (Objective-C and other languages are not supported).
 
-Octopus may work Xcode versions as old as 8, but I haven't tested anything older than 16.
+Octopus may work in Xcode versions as old as 8, but it has not been tested with anything older than Xcode 16.
 
 ## Privacy policy
 Octopus for Xcode doesn't collect or send any information, even analytics. Nothing ever leaves your computer.
 
 ## Getting started
-
 1. Download _Octopus.zip_ from [the Releases page](https://github.com/andriichernenko/octopus/releases).
 2. Unzip the file, move _Octopus.app_ to the _Applications_ folder.
 3. Launch _Octopus.app_. This will automatically add a login item.
@@ -76,7 +75,7 @@ Octopus for Xcode doesn't collect or send any information, even analytics. Nothi
 
 ## Installing updates
 
-1. Download the new version of Octopus.
+1. Download the new version of Octopus from [the Releases page](https://github.com/andriichernenko/octopus/releases).
 2. Quit Xcode and the Octopus app using the menu bar item.
 3. Replace _Octopus.app_ in the _Applications_ folder with the new version.
 4. Start Xcode and Octopus.
